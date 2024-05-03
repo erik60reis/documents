@@ -3,7 +3,7 @@ By using Perfect Chess Discord bot, you are agreeing with the following terms:
 
 1. The Rating System.
 
-    1.1 you are not using multiple discord accounts to cheat the ELO (Rating) system
+    1.1 You are not using multiple discord accounts to cheat the ELO (Rating) system
 
     1.2 You are not using Perfect Chess' Play against BOT System to take advantage in-game
 
